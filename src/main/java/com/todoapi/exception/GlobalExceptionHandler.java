@@ -1,4 +1,4 @@
-package main.java.com.todoapi.exception;
+package com.todoapi.exception;
 
 public class GlobalExceptionHandler {
     

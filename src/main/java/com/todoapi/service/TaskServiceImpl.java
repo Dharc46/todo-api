@@ -1,4 +1,4 @@
-package main.java.com.todoapi.service;
+package com.todoapi.service;
 
 public class TaskServiceImpl {
     
